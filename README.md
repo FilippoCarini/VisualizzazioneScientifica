@@ -1,5 +1,6 @@
 # VisualizzazioneScientifica
-Progetto e presentazione per l'esame di Visualizzazione Scientifica
+Progetto e presentazione per l'esame di Visualizzazione Scientifica,,,,
+
 
 
 dati presi da:
