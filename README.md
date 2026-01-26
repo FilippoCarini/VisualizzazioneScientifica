@@ -19,7 +19,7 @@ affidabili:
 
 
 
-dati presi da:
-https://ec.europa.eu/eurostat/web/main/home
-https://esploradati.istat.it/databrowser/
-https://www.pmi.com/tobacco-economics
+# dati presi da:
+- https://ec.europa.eu/eurostat/web/main/home
+- https://esploradati.istat.it/databrowser/
+- https://www.pmi.com/tobacco-economics
