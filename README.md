@@ -1,7 +1,7 @@
 # VisualizzazioneScientifica
 Progetto e presentazione per l'esame di Visualizzazione Scientifica, a cura di
-Filippo Carini
-Antonio Dorato
+- Filippo Carini
+- Antonio Dorato
 
 ## Il progetto
 Questa ricerca si pone come obiettivo quello di analizzare i fumatori
