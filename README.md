@@ -43,7 +43,7 @@ Nel nostro progetto sono stati utilizzati:
 
 ## Altro
 - Python per analisi ed elaborazione dei dati
-- Canvas per realizzazione della presentazione
+- Canva per realizzazione della presentazione
 
 ## 👥 Autori
 - Antonio Dorato
